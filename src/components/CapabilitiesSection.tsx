@@ -7,7 +7,7 @@ import capMgmt from "@/assets/capability-management.jpg";
 
 const capabilities = [
   { line1: "360°", line2: "Brand Experiences", image: cap360 },
-  { line1: "Pan-India", line2: "& International Reach", image: capReach },
+  { line1: "Pan-India", line2: "Across Key Indian Markets", image: capReach },
   { line1: "Tech-First", line2: "Innovative Approach", image: capTech },
   { line1: "End-to-End", line2: "Event Management", image: capMgmt },
 ];
